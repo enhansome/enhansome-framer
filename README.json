@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52024193,
             "language": "JavaScript",
             "last_commit": "2017-02-14T21:06:07Z",
             "owner": "k-vyn",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44268470,
             "language": "CoffeeScript",
             "last_commit": "2019-07-14T21:03:11Z",
             "owner": "awt2542",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16714166,
             "language": "JavaScript",
             "last_commit": "2018-03-07T03:01:26Z",
             "owner": "facebookarchive",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34117595,
             "language": "CoffeeScript",
             "last_commit": "2019-01-01T08:59:45Z",
             "owner": "ajimix",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58354252,
             "language": "JavaScript",
             "last_commit": "2017-10-30T22:19:32Z",
             "owner": "k-vyn",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35765548,
             "language": "CoffeeScript",
             "last_commit": "2019-04-06T15:15:14Z",
             "owner": "awt2542",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59622600,
             "language": "CoffeeScript",
             "last_commit": "2018-05-02T07:39:57Z",
             "owner": "marckrenn",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38894107,
             "language": "CoffeeScript",
             "last_commit": "2016-10-27T18:04:39Z",
             "owner": "chriscamargo",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43245183,
             "language": "CoffeeScript",
             "last_commit": "2017-07-11T17:02:32Z",
             "owner": "jonastreub",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45482713,
             "language": "CoffeeScript",
             "last_commit": "2018-10-29T06:50:39Z",
             "owner": "joshpuckett",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91219841,
             "language": "CoffeeScript",
             "last_commit": "2018-01-17T13:01:49Z",
             "owner": "72",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32069867,
             "language": "CoffeeScript",
             "last_commit": "2016-09-15T14:58:28Z",
             "owner": "benjamindenboer",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58222202,
             "language": "CoffeeScript",
             "last_commit": "2016-05-06T17:57:42Z",
             "owner": "slitrobo",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99150106,
             "language": "CoffeeScript",
             "last_commit": "2018-07-24T11:04:37Z",
             "owner": "der-lukas",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38507789,
             "language": "CoffeeScript",
             "last_commit": "2017-08-28T02:32:43Z",
             "owner": "72",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38507789,
             "language": "CoffeeScript",
             "last_commit": "2017-08-28T02:32:43Z",
             "owner": "72",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109695656,
             "language": "JavaScript",
             "last_commit": "2019-07-12T18:04:06Z",
             "owner": "emilwidlund",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32709835,
             "language": "CoffeeScript",
             "last_commit": "2016-07-13T04:33:08Z",
             "owner": "joshmtucker",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32488670,
             "language": "JavaScript",
             "last_commit": "2016-06-29T23:35:51Z",
             "owner": "aboutjax",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34219316,
             "language": "JavaScript",
             "last_commit": "2016-01-18T17:16:45Z",
             "owner": "petterheterjag",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43462777,
             "language": "CoffeeScript",
             "last_commit": "2015-10-13T03:22:39Z",
             "owner": "stakes",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40625106,
             "language": "JavaScript",
             "last_commit": "2018-02-28T14:24:43Z",
             "owner": "isaacw",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35948117,
             "language": "JavaScript",
             "last_commit": "2015-07-06T15:36:02Z",
             "owner": "peteschaffner",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42447297,
             "language": "CoffeeScript",
             "last_commit": "2017-08-16T04:00:20Z",
             "owner": "RayPS",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60812508,
             "language": "JavaScript",
             "last_commit": "2016-07-26T20:31:48Z",
             "owner": "tjphilli",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33924151,
             "language": "CoffeeScript",
             "last_commit": "2015-05-28T17:22:15Z",
             "owner": "ajimix",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70912265,
             "language": "CoffeeScript",
             "last_commit": "2017-03-22T11:17:27Z",
             "owner": "Volorf",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82228247,
             "language": "CoffeeScript",
             "last_commit": "2017-12-27T21:40:25Z",
             "owner": "gohypergiant",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107855039,
             "language": "CoffeeScript",
             "last_commit": "2022-08-22T15:25:40Z",
             "owner": "benjamindenboer",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116379211,
             "language": "CoffeeScript",
             "last_commit": "2018-06-02T01:01:18Z",
             "owner": "NocheVolta",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108358197,
             "language": "JavaScript",
             "last_commit": "2018-03-18T23:00:31Z",
             "owner": "brentcas",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108453848,
             "language": "CoffeeScript",
             "last_commit": "2017-11-11T15:59:44Z",
             "owner": "benjamindenboer",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55369944,
             "language": "JavaScript",
             "last_commit": "2016-04-14T20:41:31Z",
             "owner": "mrrocks",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61900633,
             "language": "CoffeeScript",
             "last_commit": "2025-05-28T14:29:44Z",
             "owner": "IanBellomy",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32384406,
             "language": "JavaScript",
             "last_commit": "2015-11-13T00:23:49Z",
             "owner": "aboutjax",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39736339,
             "language": "CoffeeScript",
             "last_commit": "2019-07-14T21:03:53Z",
             "owner": "awt2542",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88090480,
             "language": "CoffeeScript",
             "last_commit": "2017-10-18T14:51:07Z",
             "owner": "gohypergiant",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42343814,
             "language": "CoffeeScript",
             "last_commit": "2017-08-16T05:42:08Z",
             "owner": "RayPS",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41764832,
             "language": "CoffeeScript",
             "last_commit": "2015-09-04T16:52:25Z",
             "owner": "supsupmo",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 114754091,
             "language": "JavaScript",
             "last_commit": "2018-07-11T09:57:06Z",
             "owner": "steveruizok",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107542073,
             "language": "CoffeeScript",
             "last_commit": "2018-04-04T08:20:29Z",
             "owner": "sebcglbailey",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41556158,
             "language": "JavaScript",
             "last_commit": "2015-08-31T01:34:37Z",
             "owner": "jchavarri",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41108206,
             "language": "JavaScript",
             "last_commit": "2015-08-24T21:06:46Z",
             "owner": "joshmtucker",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61749750,
             "language": "CoffeeScript",
             "last_commit": "2017-10-18T14:49:16Z",
             "owner": "gohypergiant",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 124769844,
             "language": "CoffeeScript",
             "last_commit": "2019-04-04T06:50:01Z",
             "owner": "steveruizok",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36217594,
             "language": "JavaScript",
             "last_commit": "2015-07-08T10:11:46Z",
             "owner": "peteschaffner",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46821506,
             "language": "JavaScript",
             "last_commit": "2016-05-24T15:43:02Z",
             "owner": "imaaronjames",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85957159,
             "language": "CoffeeScript",
             "last_commit": "2018-04-23T14:48:36Z",
             "owner": "marckrenn",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41759208,
             "language": "CoffeeScript",
             "last_commit": "2015-09-05T00:23:02Z",
             "owner": "jonahvsweb",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41593745,
             "language": "JavaScript",
             "last_commit": "2016-09-14T12:06:28Z",
             "owner": "nilssonH",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71180443,
             "language": "CoffeeScript",
             "last_commit": "2022-06-23T17:09:38Z",
             "owner": "alandickinson",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32919499,
             "language": "JavaScript",
             "last_commit": "2015-03-26T10:10:19Z",
             "owner": "cupofjoakim",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35557131,
             "language": "HTML",
             "last_commit": "2015-05-21T14:37:45Z",
             "owner": "peteschaffner",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82228340,
             "language": "CoffeeScript",
             "last_commit": "2017-10-18T15:30:54Z",
             "owner": "gohypergiant",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33085361,
             "language": "JavaScript",
             "last_commit": "2015-03-29T20:01:50Z",
             "owner": "leinerud",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32978133,
             "language": "JavaScript",
             "last_commit": "2015-10-28T09:16:25Z",
             "owner": "karlerikjonatan",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86346330,
             "language": "CoffeeScript",
             "last_commit": "2017-07-13T21:39:27Z",
             "owner": "gohypergiant",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62817439,
             "language": "CoffeeScript",
             "last_commit": "2017-11-02T17:46:14Z",
             "owner": "gohypergiant",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115160592,
             "language": "CoffeeScript",
             "last_commit": "2018-03-20T00:28:27Z",
             "owner": "aboutjax",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40076327,
             "language": "CoffeeScript",
             "last_commit": "2019-12-03T20:40:58Z",
             "owner": "awt2542",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80087007,
             "language": "JavaScript",
             "last_commit": "2017-12-15T21:15:51Z",
             "owner": "andrewliebchen",
@@ -864,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88907750,
             "language": "CoffeeScript",
             "last_commit": "2020-02-12T16:08:11Z",
             "owner": "zehfernandes",
@@ -878,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68159789,
             "language": "HTML",
             "last_commit": "2017-02-01T21:22:06Z",
             "owner": "cloudstitch",
@@ -892,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105077655,
             "language": "CoffeeScript",
             "last_commit": "2018-10-18T10:13:58Z",
             "owner": "emilwidlund",
@@ -906,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41280020,
             "language": "JavaScript",
             "last_commit": "2015-08-24T03:44:56Z",
             "owner": "joshmtucker",
@@ -920,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32980627,
             "language": "JavaScript",
             "last_commit": "2015-03-30T09:23:16Z",
             "owner": "cupofjoakim",
@@ -934,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38311080,
             "language": "JavaScript",
             "last_commit": "2015-07-07T13:07:14Z",
             "owner": "peteschaffner",
@@ -948,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118465694,
             "language": "CoffeeScript",
             "last_commit": "2018-01-22T14:31:37Z",
             "owner": "marckrenn",
@@ -962,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39459180,
             "language": "JavaScript",
             "last_commit": "2015-08-20T06:27:28Z",
             "owner": "nickmangos",
@@ -976,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125191603,
             "language": "CoffeeScript",
             "last_commit": "2018-10-23T21:56:38Z",
             "owner": "Skinny-Malinky",
@@ -990,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66305666,
             "language": "JavaScript",
             "last_commit": "2016-08-29T13:41:38Z",
             "owner": "mamezito-zz",
@@ -1004,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46546411,
             "language": "JavaScript",
             "last_commit": "2016-04-14T16:26:33Z",
             "owner": "imaaronjames",
@@ -1018,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130086654,
             "language": "CoffeeScript",
             "last_commit": "2018-05-09T16:10:31Z",
             "owner": "johnmpsherwin-zz",
@@ -1032,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33061592,
             "language": "JavaScript",
             "last_commit": "2015-03-29T05:45:44Z",
             "owner": "joshmtucker",
@@ -1046,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127349924,
             "language": "CoffeeScript",
             "last_commit": "2018-03-29T21:40:33Z",
             "owner": "johnmpsherwin-zz",
@@ -1060,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32920337,
             "language": "JavaScript",
             "last_commit": "2015-09-03T12:15:41Z",
             "owner": "karlerikjonatan",
@@ -1074,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34985517,
             "language": "JavaScript",
             "last_commit": "2016-01-11T12:28:34Z",
             "owner": "offirg75-zz",
@@ -1088,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46651609,
             "language": "JavaScript",
             "last_commit": "2016-04-14T16:20:44Z",
             "owner": "imaaronjames",
@@ -1102,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46888767,
             "language": "JavaScript",
             "last_commit": "2016-04-14T16:23:28Z",
             "owner": "imaaronjames",
@@ -1116,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35501741,
             "language": "JavaScript",
             "last_commit": "2015-06-11T09:08:28Z",
             "owner": "peteschaffner",
@@ -1130,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127926511,
             "language": "JavaScript",
             "last_commit": "2018-04-03T15:35:26Z",
             "owner": "walnuttea",
@@ -1144,48 +1225,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128665696,
             "language": "CoffeeScript",
             "last_commit": "2018-04-10T22:11:30Z",
             "owner": "josephxbrick",
             "repo": "DeviceRotator",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "CameraLayer",
-          "description": "Framer layer displaying camera image.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "SliderLibrary",
-          "description": "Framer library for creating sliders.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "distribute-layers",
-          "description": "This package helps you position multiple Framer layers with ease.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Framer Web Audio API Module",
-          "description": "A Framer module that provides better audio support for your Framer projects.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Yummy Framer",
-          "description": "Yummy provides custom layer functions such as LoadViews, LoadNextView, Fade & Move Layer.",
-          "children": []
         }
       ],
       "title": "Modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1194,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 120832915,
             "language": "CoffeeScript",
             "last_commit": "2019-03-20T22:23:29Z",
             "owner": "facebookarchive",
@@ -1208,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119193240,
             "language": "JavaScript",
             "last_commit": "2018-07-02T16:06:04Z",
             "owner": "steveruizok",
@@ -1219,7 +1273,7 @@
       "title": "UI Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1228,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63500441,
             "language": "CoffeeScript",
             "last_commit": "2018-05-24T19:05:08Z",
             "owner": "robotdestroy",
@@ -1242,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100325642,
             "language": "JavaScript",
             "last_commit": "2019-01-04T20:16:09Z",
             "owner": "kysely",
@@ -1256,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46036733,
             "language": "JavaScript",
             "last_commit": "2015-11-12T10:33:43Z",
             "owner": "mattsjohnston",
@@ -1270,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56947126,
             "language": "JavaScript",
             "last_commit": "2023-05-22T19:40:51Z",
             "owner": "alexchantastic",
@@ -1279,16 +1337,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:14:22.615Z",
+    "last_updated": "2026-08-19T12:27:33.634Z",
     "original_repository": "podo/awesome-framer",
+    "original_repository_id": 44164636,
     "original_repository_sha": "03e1463593d92bfaa0c5a01943966728bb8a7a07",
     "enhanced_repository": "enhansome/enhansome-framer",
     "enhanced_repository_description": null,
