@@ -1340,9 +1340,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:46.463Z",
-    "original_repository": "podo/awesome-framer",
-    "original_repository_id": 44164636,
+    "last_updated": "2026-08-27T11:38:48.123Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 44164636,
+      "language": null,
+      "last_commit": "2026-03-22T06:15:59Z",
+      "owner": "podo",
+      "repo": "awesome-framer",
+      "stars": 622
+    },
     "original_repository_sha": "03e1463593d92bfaa0c5a01943966728bb8a7a07",
     "enhanced_repository": "enhansome/enhansome-framer",
     "enhanced_repository_description": null,
