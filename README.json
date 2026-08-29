@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 52024193,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-02-14T21:06:07Z",
+            "open_issues": 13,
             "owner": "k-vyn",
             "repo": "framer-ios-kit",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi step user flows in Framer.js",
+            "homepage": null,
             "id": 44268470,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2019-07-14T21:03:11Z",
+            "open_issues": 8,
             "owner": "awt2542",
             "repo": "ViewController-for-Framer",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of useful functions to make mobile prototyping with Framer easier.",
+            "homepage": null,
             "id": 16714166,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-07T03:01:26Z",
+            "open_issues": 0,
             "owner": "facebookarchive",
             "repo": "shortcuts-for-framer",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -58,12 +73,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer module to add inputs to your prototypes and easily turn your designs inputs into real inputs",
+            "homepage": null,
             "id": 34117595,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2019-01-01T08:59:45Z",
+            "open_issues": 0,
             "owner": "ajimix",
             "repo": "Input-Framer",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "coffeescript",
+              "framer",
+              "framer-studio",
+              "input",
+              "prototype"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -74,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 58354252,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-30T22:19:32Z",
+            "open_issues": 8,
             "owner": "k-vyn",
             "repo": "framer-material-kit",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -90,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer.js module that simplifies the process of adding text to your prototypes.",
+            "homepage": null,
             "id": 35765548,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2019-04-06T15:15:14Z",
+            "open_issues": 13,
             "owner": "awt2542",
             "repo": "textLayer-for-Framer",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -106,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.",
+            "homepage": null,
             "id": 59622600,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-05-02T07:39:57Z",
+            "open_issues": 0,
             "owner": "marckrenn",
             "repo": "framer-Firebase",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -122,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple controller for FramerJS that allows you to transition between views with just a couple lines of code.",
+            "homepage": null,
             "id": 38894107,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2016-10-27T18:04:39Z",
+            "open_issues": 3,
             "owner": "chriscamargo",
             "repo": "framer-viewNavigationController",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -138,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A virtual reality component for Framer.",
+            "homepage": "http://framer.com/",
             "id": 43245183,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-07-11T17:02:32Z",
+            "open_issues": 0,
             "owner": "jonastreub",
             "repo": "VRComponent",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -154,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modules that extend Framer.js",
+            "homepage": null,
             "id": 45482713,
             "language": "CoffeeScript",
+            "license": "GPL-2.0",
             "last_commit": "2018-10-29T06:50:39Z",
+            "open_issues": 4,
             "owner": "joshpuckett",
             "repo": "FramerModules",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -170,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files)",
+            "homepage": null,
             "id": 91219841,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-01-17T13:01:49Z",
+            "open_issues": 1,
             "owner": "72",
             "repo": "lottie-framer",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -186,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AudioPlayer Module for Framer. See the new, Design-compatible Audio module here: https://github.com/benjamindenboer/FramerAudio",
+            "homepage": null,
             "id": 32069867,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2016-09-15T14:58:28Z",
+            "open_issues": 3,
             "owner": "benjamindenboer",
             "repo": "Framer-AudioPlayer",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -202,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create custom svg shapes and animate each point individually in Framer JS.",
+            "homepage": null,
             "id": 58222202,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2016-05-06T17:57:42Z",
+            "open_issues": 2,
             "owner": "slitrobo",
             "repo": "framer-path",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -218,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create symbols in Framer",
+            "homepage": null,
             "id": 99150106,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-07-24T11:04:37Z",
+            "open_issues": 3,
             "owner": "der-lukas",
             "repo": "framer-Symbols",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -234,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module to create scroll components with sticky headers in Framer.",
+            "homepage": null,
             "id": 38507789,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2017-08-28T02:32:43Z",
+            "open_issues": 0,
             "owner": "72",
             "repo": "StickyHeaders-for-Framer",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -250,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module to create scroll components with sticky headers in Framer.",
+            "homepage": null,
             "id": 38507789,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2017-08-28T02:32:43Z",
+            "open_issues": 0,
             "owner": "72",
             "repo": "StickyHeaders-for-Framer",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -266,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your Framer-prototypes a third dimension",
+            "homepage": null,
             "id": 109695656,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-07-12T18:04:06Z",
+            "open_issues": 3,
             "owner": "emilwidlund",
             "repo": "framer-form",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -282,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Module for Framer Studio to handle device orientation events.",
+            "homepage": null,
             "id": 32709835,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2016-07-13T04:33:08Z",
+            "open_issues": 1,
             "owner": "joshmtucker",
             "repo": "OrientationEvents",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -298,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framer module to quickly create a flip card effect with two image layers",
+            "homepage": null,
             "id": 32488670,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-06-29T23:35:51Z",
+            "open_issues": 4,
             "owner": "aboutjax",
             "repo": "framer-flip-card-module",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -314,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module for Framer that replicates the iOS tab bar.",
+            "homepage": null,
             "id": 34219316,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-18T17:16:45Z",
+            "open_issues": 0,
             "owner": "petterheterjag",
             "repo": "TabBarModule",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -330,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A video player module for Framer Studio and Framer.js.",
+            "homepage": null,
             "id": 43462777,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2015-10-13T03:22:39Z",
+            "open_issues": 0,
             "owner": "stakes",
             "repo": "Framer-VideoPlayer",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -346,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer.js classes for managing large sets of animations",
+            "homepage": null,
             "id": 40625106,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-28T14:24:43Z",
+            "open_issues": 4,
             "owner": "isaacw",
             "repo": "framer-animation-collections",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -362,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google Fonts loader for Framer.js",
+            "homepage": null,
             "id": 35948117,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-07-06T15:36:02Z",
+            "open_issues": 1,
             "owner": "peteschaffner",
             "repo": "framer-googlefonts",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -378,12 +499,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shake event for your prototype.",
+            "homepage": null,
             "id": 42447297,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2017-08-16T04:00:20Z",
+            "open_issues": 0,
             "owner": "RayPS",
             "repo": "Framer-Module-ShakeEvent",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "framer",
+              "framer-component",
+              "framer-prototype",
+              "framer-resources",
+              "framer-studio",
+              "framerjs",
+              "module",
+              "prototype"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -394,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer Layer subclass for when you need to do stuff with numbers",
+            "homepage": null,
             "id": 60812508,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-26T20:31:48Z",
+            "open_issues": 1,
             "owner": "tjphilli",
             "repo": "Framer-ValueLayer",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -410,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apple Watch Kit for Framer JS",
+            "homepage": null,
             "id": 33924151,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2015-05-28T17:22:15Z",
+            "open_issues": 1,
             "owner": "ajimix",
             "repo": "WatchKit-Framer",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -426,12 +571,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grid module for FramerJS",
+            "homepage": null,
             "id": 70912265,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2017-03-22T11:17:27Z",
+            "open_issues": 0,
             "owner": "Volorf",
             "repo": "Gridddle",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "framer",
+              "framerjs",
+              "grid",
+              "prototype"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -442,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for generating accurate, customizable status bars for iOS app prototypes.",
+            "homepage": null,
             "id": 82228247,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-12-27T21:40:25Z",
+            "open_issues": 1,
             "owner": "gohypergiant",
             "repo": "StatusBarLayer",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -458,12 +618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design with Audio in Framer (https://framer.com).",
+            "homepage": null,
             "id": 107855039,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2022-08-22T15:25:40Z",
+            "open_issues": 1,
             "owner": "benjamindenboer",
             "repo": "FramerAudio",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "audio",
+              "audio-player",
+              "design",
+              "module"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -474,12 +644,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simplest way to integrate Mapbox maps on your Framer prototypes.",
+            "homepage": null,
             "id": 116379211,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-06-02T01:01:18Z",
+            "open_issues": 1,
             "owner": "NocheVolta",
             "repo": "FramerMapboxJS",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "framer",
+              "map",
+              "mapbox"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -490,12 +669,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS 11 Design System GUI for Framer",
+            "homepage": "https://brentcas.com/ios-11-framer",
             "id": 108358197,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-18T23:00:31Z",
+            "open_issues": 0,
             "owner": "brentcas",
             "repo": "iOS-11-Framer",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "design",
+              "design-system",
+              "framer",
+              "gui",
+              "ios",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -506,12 +697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design with Sliders in Framer. (https://framer.com)",
+            "homepage": null,
             "id": 108453848,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2017-11-11T15:59:44Z",
+            "open_issues": 0,
             "owner": "benjamindenboer",
             "repo": "FramerSlider",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -522,12 +718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Module for FramerJS to enable a perspective view of your prototype.",
+            "homepage": null,
             "id": 55369944,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-14T20:41:31Z",
+            "open_issues": 1,
             "owner": "mrrocks",
             "repo": "perspective-view",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -538,12 +739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Drag and Drop module for Framer CLASSIC. ",
+            "homepage": null,
             "id": 61900633,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2025-05-28T14:29:44Z",
+            "open_issues": 1,
             "owner": "IanBellomy",
             "repo": "Pair",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -554,12 +760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give this module an array of images, and it will rotate them equally around in a circular path",
+            "homepage": null,
             "id": 32384406,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-13T00:23:49Z",
+            "open_issues": 2,
             "owner": "aboutjax",
             "repo": "framer-equally-rotate-images",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -570,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer.js module that makes it easier to find layers in your project",
+            "homepage": null,
             "id": 39736339,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2019-07-14T21:03:53Z",
+            "open_issues": 0,
             "owner": "awt2542",
             "repo": "Layers-for-Framer",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -586,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for creating a developer panel to control aspects of the prototype from within the prototype.",
+            "homepage": null,
             "id": 88090480,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-10-18T14:51:07Z",
+            "open_issues": 0,
             "owner": "gohypergiant",
             "repo": "ControlPanelLayer",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -602,12 +823,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UISound Module for FramerJS",
+            "homepage": null,
             "id": 42343814,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2017-08-16T05:42:08Z",
+            "open_issues": 1,
             "owner": "RayPS",
             "repo": "Framer-Module-UISound",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "framer",
+              "framer-component",
+              "framer-prototype",
+              "framer-resources",
+              "framer-snippets",
+              "framer-studio",
+              "framerjs"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -618,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Because sometimes we all need to simulate typing in our framer prototypes.",
+            "homepage": null,
             "id": 41764832,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2015-09-04T16:52:25Z",
+            "open_issues": 0,
             "owner": "supsupmo",
             "repo": "framer-ios-keyboard",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -634,12 +873,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Expand Utils with some handy helper functions.",
+            "homepage": null,
             "id": 114754091,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-11T09:57:06Z",
+            "open_issues": 2,
             "owner": "steveruizok",
             "repo": "framer-moreutils",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -650,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module for converting your designs in design mode into full scalable classes in code, without a single line of code!",
+            "homepage": null,
             "id": 107542073,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-04-04T08:20:29Z",
+            "open_issues": 3,
             "owner": "sebcglbailey",
             "repo": "framer-DesignComponents",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -666,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reusable and customizable navigation component for Framer, based on iOS",
+            "homepage": null,
             "id": 41556158,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-08-31T01:34:37Z",
+            "open_issues": 4,
             "owner": "jchavarri",
             "repo": "FramerNavigationComponent",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -682,12 +936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Layer animator for Framer",
+            "homepage": null,
             "id": 41108206,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-24T21:06:46Z",
+            "open_issues": 1,
             "owner": "joshmtucker",
             "repo": "Kinetics",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -698,12 +957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module to generate an interactive Apple TV remote for tvOS app prototypes.",
+            "homepage": null,
             "id": 61749750,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-10-18T14:49:16Z",
+            "open_issues": 0,
             "owner": "gohypergiant",
             "repo": "RemoteLayer",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -714,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Painlessly, reliably load local and web fonts into Framer prototypes.",
+            "homepage": null,
             "id": 124769844,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2019-04-04T06:50:01Z",
+            "open_issues": 2,
             "owner": "steveruizok",
             "repo": "fontloader",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -730,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Framer.js dynamically tinted icons based off of a template image.",
+            "homepage": null,
             "id": 36217594,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-07-08T10:11:46Z",
+            "open_issues": 0,
             "owner": "peteschaffner",
             "repo": "framer-icon",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -746,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer Studio module for adding Android Material Design Touch Ripples to any layer",
+            "homepage": null,
             "id": 46821506,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-05-24T15:43:02Z",
+            "open_issues": 2,
             "owner": "imaaronjames",
             "repo": "Simple-Android-Ripple",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -762,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows Framer prototypes to read variables from and write variables to the last part of their URL, the query.",
+            "homepage": null,
             "id": 85957159,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-04-23T14:48:36Z",
+            "open_issues": 0,
             "owner": "marckrenn",
             "repo": "framer-QueryInterface",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -778,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom Framer.js module that shows hotspots over clickable layers in your prototype.",
+            "homepage": "https://github.com/jonahvsweb/Framer-Highlightr",
             "id": 41759208,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2015-09-05T00:23:02Z",
+            "open_issues": 1,
             "owner": "jonahvsweb",
             "repo": "Framer-Highlightr",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -794,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible Framer Module that creates a grid overlay on top of your prototype.",
+            "homepage": null,
             "id": 41593745,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-14T12:06:28Z",
+            "open_issues": 0,
             "owner": "nilssonH",
             "repo": "Framer-Grid",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -810,12 +1104,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for creating views that stack on top of each other.",
+            "homepage": null,
             "id": 71180443,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2022-06-23T17:09:38Z",
+            "open_issues": 0,
             "owner": "alandickinson",
             "repo": "framer-view-stack",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "framer",
+              "framerjs",
+              "prototyping"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -826,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a module for framer.js that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.",
+            "homepage": null,
             "id": 32919499,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-03-26T10:10:19Z",
+            "open_issues": 1,
             "owner": "cupofjoakim",
             "repo": "framer.makeGradient",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -842,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web view module for Framer.js",
+            "homepage": null,
             "id": 35557131,
             "language": "HTML",
+            "license": null,
             "last_commit": "2015-05-21T14:37:45Z",
+            "open_issues": 1,
             "owner": "peteschaffner",
             "repo": "framer-webview",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -858,12 +1171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for simulating the grid focus behavior found on Apple TV and Roku.",
+            "homepage": null,
             "id": 82228340,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-10-18T15:30:54Z",
+            "open_issues": 2,
             "owner": "gohypergiant",
             "repo": "FocusEngine",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -874,12 +1192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framer module that mimics an iOS notification.",
+            "homepage": null,
             "id": 33085361,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-03-29T20:01:50Z",
+            "open_issues": 0,
             "owner": "leinerud",
             "repo": "framer.iosnotification",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -890,12 +1213,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Ajax module for Framer.",
+            "homepage": null,
             "id": 32978133,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-10-28T09:16:25Z",
+            "open_issues": 0,
             "owner": "karlerikjonatan",
             "repo": "framer-module-ajax",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "framer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -906,12 +1236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for applying gradients to layers and animating them.",
+            "homepage": null,
             "id": 86346330,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-07-13T21:39:27Z",
+            "open_issues": 0,
             "owner": "gohypergiant",
             "repo": "GradientHelper",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -922,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for creating powerful Mapbox maps in your prototypes.",
+            "homepage": null,
             "id": 62817439,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-11-02T17:46:14Z",
+            "open_issues": 3,
             "owner": "gohypergiant",
             "repo": "MapboxLayer",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -938,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer feedback module for faster prototyping",
+            "homepage": null,
             "id": 115160592,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-03-20T00:28:27Z",
+            "open_issues": 0,
             "owner": "aboutjax",
             "repo": "Framer-Feedback",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -954,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer.js module for making comments in your prototypes",
+            "homepage": null,
             "id": 40076327,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2019-12-03T20:40:58Z",
+            "open_issues": 0,
             "owner": "awt2542",
             "repo": "Comment-for-Framer",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -970,12 +1320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import information from Google Sheets into Framer",
+            "homepage": null,
             "id": 80087007,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-15T21:15:51Z",
+            "open_issues": 1,
             "owner": "andrewliebchen",
             "repo": "framer-sheet",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -986,12 +1341,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instantly creates Loading placeholder based on your layer style.",
+            "homepage": "https://framer.cloud/NApWd/",
             "id": 88907750,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2020-02-12T16:08:11Z",
+            "open_issues": 0,
             "owner": "zehfernandes",
             "repo": "framer-loadingplaceholder",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "framer",
+              "loading-animations",
+              "placeholder"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1002,12 +1366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68159789,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-02-01T21:22:06Z",
+            "open_issues": 0,
             "owner": "cloudstitch",
             "repo": "framer.module.cloudstitch",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1018,12 +1387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module for Gamepad-driven UI prototypes.",
+            "homepage": null,
             "id": 105077655,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-10-18T10:13:58Z",
+            "open_issues": 1,
             "owner": "emilwidlund",
             "repo": "framer-joystick",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1034,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer module for Web SpeechSynthesis",
+            "homepage": null,
             "id": 41280020,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-24T03:44:56Z",
+            "open_issues": 0,
             "owner": "joshmtucker",
             "repo": "SpeechSynth",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1050,12 +1429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framer module that provides a library of different image placeholder services.",
+            "homepage": null,
             "id": 32980627,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-03-30T09:23:16Z",
+            "open_issues": 0,
             "owner": "cupofjoakim",
             "repo": "framer.placehold",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1066,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Label module with multi-line truncation support for Framer.js.",
+            "homepage": null,
             "id": 38311080,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-07-07T13:07:14Z",
+            "open_issues": 0,
             "owner": "peteschaffner",
             "repo": "framer-label",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1082,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.",
+            "homepage": null,
             "id": 118465694,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-01-22T14:31:37Z",
+            "open_issues": 1,
             "owner": "marckrenn",
             "repo": "framer-keyboardEvents",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1098,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framer module that transitions the background colour of a layer.",
+            "homepage": null,
             "id": 39459180,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-20T06:27:28Z",
+            "open_issues": 0,
             "owner": "nickmangos",
             "repo": "framer-colour-transition",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1114,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A module for Framer that allows you to easily manage keyboard input.",
+            "homepage": null,
             "id": 125191603,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-10-23T21:56:38Z",
+            "open_issues": 0,
             "owner": "Skinny-Malinky",
             "repo": "keyboard-events-for-framer",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1130,12 +1534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 66305666,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-29T13:41:38Z",
+            "open_issues": 1,
             "owner": "mamezito-zz",
             "repo": "spotifyApiFramer",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1146,12 +1555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily add Android keyboards to your Framer Studio projects with just one line of code. Keyboards include default, numbers, symbols, dialpad, and voice.",
+            "homepage": null,
             "id": 46546411,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-14T16:26:33Z",
+            "open_issues": 0,
             "owner": "imaaronjames",
             "repo": "Simple-Android-Keyboards",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1162,12 +1576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer Module to add Android's Bottom Navigation to your project",
+            "homepage": null,
             "id": 130086654,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-05-09T16:10:31Z",
+            "open_issues": 0,
             "owner": "johnmpsherwin-zz",
             "repo": "Framer-Bottom-Navigation",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1178,12 +1597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Module for Framer Studio to calculate properties of a scaled layer using its new dimensions.",
+            "homepage": null,
             "id": 33061592,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-03-29T05:45:44Z",
+            "open_issues": 0,
             "owner": "joshmtucker",
             "repo": "ScaleFrame",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1194,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Picker Module",
+            "homepage": null,
             "id": 127349924,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-03-29T21:40:33Z",
+            "open_issues": 0,
             "owner": "johnmpsherwin-zz",
             "repo": "Framer-Android-Picker",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1210,12 +1639,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fill module for Framer.",
+            "homepage": null,
             "id": 32920337,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-09-03T12:15:41Z",
+            "open_issues": 0,
             "owner": "karlerikjonatan",
             "repo": "framer-module-fill",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "framer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1226,12 +1662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framer JS Module for a Material design like ripple transition",
+            "homepage": null,
             "id": 34985517,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-01-11T12:28:34Z",
+            "open_issues": 1,
             "owner": "offirg75-zz",
             "repo": "framer.RippleTransition",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1242,12 +1683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use this module to easily add Android toasts to your Framer JS projects.",
+            "homepage": null,
             "id": 46651609,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-14T16:20:44Z",
+            "open_issues": 0,
             "owner": "imaaronjames",
             "repo": "Simple-Android-Toast",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1258,12 +1704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer Studio module for adding Android Material Design Snackbars to your project",
+            "homepage": null,
             "id": 46888767,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-14T16:23:28Z",
+            "open_issues": 0,
             "owner": "imaaronjames",
             "repo": "Simple-Android-Snackbar",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1274,12 +1725,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "iOS status bar module for Framer.js",
+            "homepage": null,
             "id": 35501741,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-06-11T09:08:28Z",
+            "open_issues": 0,
             "owner": "peteschaffner",
             "repo": "framer-uistatusbar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1290,12 +1746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Module to initialize a status bar in a Framer application.",
+            "homepage": null,
             "id": 127926511,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-03T15:35:26Z",
+            "open_issues": 0,
             "owner": "walnuttea",
             "repo": "statusBar-module",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1306,12 +1767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framer module that adds a rotation button to a phone/tablet when said is displayed in a desktop browser or in Framer Studio (but not on device)",
+            "homepage": null,
             "id": 128665696,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-04-10T22:11:30Z",
+            "open_issues": 0,
             "owner": "josephxbrick",
             "repo": "DeviceRotator",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         }
@@ -1328,12 +1794,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Components that make it easy for designers to quickly prototype native-feeling iOS 11 interactions in Framer",
+            "homepage": null,
             "id": 120832915,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2019-03-20T22:23:29Z",
+            "open_issues": 4,
             "owner": "facebookarchive",
             "repo": "ios-11-gui-for-framer",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1344,12 +1815,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A general-purpose component kit for Framer.",
+            "homepage": null,
             "id": 119193240,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-02T16:06:04Z",
+            "open_issues": 0,
             "owner": "steveruizok",
             "repo": "framework",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         }
@@ -1366,12 +1842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of Framer snippets to help speed up your workflow",
+            "homepage": null,
             "id": 63500441,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-05-24T19:05:08Z",
+            "open_issues": 0,
             "owner": "robotdestroy",
             "repo": "Framer-Snippets-Library",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1382,12 +1863,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Discover, install and save your favorite modules at one place",
+            "homepage": "https://www.framermodules.com",
             "id": 100325642,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-04T20:16:09Z",
+            "open_issues": 12,
             "owner": "kysely",
             "repo": "framer-modules",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "framer",
+              "framer-modules",
+              "framer-prototype",
+              "framer-snippets",
+              "framer-studio",
+              "manager",
+              "modules",
+              "registry"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1398,12 +1893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prototype in Framer without coding",
+            "homepage": null,
             "id": 46036733,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-12T10:33:43Z",
+            "open_issues": 0,
             "owner": "mattsjohnston",
             "repo": "Stitch",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         },
@@ -1414,12 +1914,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kickstart your Framer Library prototype development",
+            "homepage": null,
             "id": 56947126,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-22T19:40:51Z",
+            "open_issues": 0,
             "owner": "alexchantastic",
             "repo": "framer-seed",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "framer",
+              "framer-library",
+              "framer-prototype",
+              "framerjs",
+              "prototype"
+            ]
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
         }
@@ -1428,15 +1939,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:09:55.833Z",
+    "last_updated": "2026-08-29T04:44:39.371Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Framer prototyping tool",
+      "homepage": null,
       "id": 44164636,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-22T06:15:59Z",
+      "open_issues": 1,
       "owner": "podo",
       "repo": "awesome-framer",
-      "stars": 622
+      "stars": 622,
+      "topics": [
+        "autocode",
+        "awesome",
+        "awesome-list",
+        "framer",
+        "framer-courses",
+        "framer-modules",
+        "framer-prototype",
+        "framer-resources",
+        "framer-snippets",
+        "framer-studio",
+        "framerjs",
+        "prototype",
+        "tutorial",
+        "video-course"
+      ]
     },
     "original_repository_sha": "03e1463593d92bfaa0c5a01943966728bb8a7a07",
     "enhanced_repository": "enhansome/enhansome-framer",
