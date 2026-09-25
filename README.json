@@ -40,7 +40,7 @@
             "open_issues": 8,
             "owner": "awt2542",
             "repo": "ViewController-for-Framer",
-            "stars": 411,
+            "stars": 412,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:31:14.726Z",
+    "last_updated": "2026-09-25T19:35:16.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",

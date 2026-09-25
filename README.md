@@ -91,7 +91,7 @@
 ## Modules
 
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) ⭐ 515 | 🐛 13 | 🌐 JavaScript | 📅 2017-02-14 - Make prototyping for iOS fast and easy without compromising the quality or customization.
-* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 411 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
+* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 412 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) ⚠️ Archived - Collection of useful functions to make mobile prototyping with Framer easier.
 * [Input-Framer](https://github.com/ajimix/Input-Framer) ⭐ 338 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-01-01 - Framer module to easily turn your designs inputs into real inputs.
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) ⭐ 265 | 🐛 8 | 🌐 JavaScript | 📅 2017-10-30 - Make prototyping with Material Design fast and easy without compromising the quality or customization.
@@ -211,4 +211,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
