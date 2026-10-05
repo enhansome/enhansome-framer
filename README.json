@@ -130,7 +130,7 @@
             "open_issues": 13,
             "owner": "awt2542",
             "repo": "textLayer-for-Framer",
-            "stars": 256,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -172,7 +172,7 @@
             "open_issues": 3,
             "owner": "chriscamargo",
             "repo": "framer-viewNavigationController",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -256,7 +256,7 @@
             "open_issues": 3,
             "owner": "benjamindenboer",
             "repo": "Framer-AudioPlayer",
-            "stars": 147,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -382,7 +382,7 @@
             "open_issues": 1,
             "owner": "joshmtucker",
             "repo": "OrientationEvents",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -1036,27 +1036,6 @@
         },
         {
           "node_type": "item",
-          "title": "framer-QueryInterface",
-          "description": "Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Allows Framer prototypes to read variables from and write variables to the last part of their URL, the query.",
-            "homepage": null,
-            "id": 85957159,
-            "language": "CoffeeScript",
-            "license": "MIT",
-            "last_commit": "2018-04-23T14:48:36Z",
-            "open_issues": 0,
-            "owner": "marckrenn",
-            "repo": "framer-QueryInterface",
-            "stars": 28,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:55.833Z"
-        },
-        {
-          "node_type": "item",
           "title": "Framer-Highlightr",
           "description": "Custom Framer module that shows hotspots over clickable layers in your prototype.",
           "children": [],
@@ -1071,6 +1050,27 @@
             "open_issues": 1,
             "owner": "jonahvsweb",
             "repo": "Framer-Highlightr",
+            "stars": 27,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:09:55.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "framer-QueryInterface",
+          "description": "Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Allows Framer prototypes to read variables from and write variables to the last part of their URL, the query.",
+            "homepage": null,
+            "id": 85957159,
+            "language": "CoffeeScript",
+            "license": "MIT",
+            "last_commit": "2018-04-23T14:48:36Z",
+            "open_issues": 0,
+            "owner": "marckrenn",
+            "repo": "framer-QueryInterface",
             "stars": 27,
             "topics": []
           },
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:49:11.352Z",
+    "last_updated": "2026-10-05T22:12:32.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",

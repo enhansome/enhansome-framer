@@ -95,19 +95,19 @@
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) ⚠️ Archived - Collection of useful functions to make mobile prototyping with Framer easier.
 * [Input-Framer](https://github.com/ajimix/Input-Framer) ⭐ 338 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-01-01 - Framer module to easily turn your designs inputs into real inputs.
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) ⭐ 265 | 🐛 8 | 🌐 JavaScript | 📅 2017-10-30 - Make prototyping with Material Design fast and easy without compromising the quality or customization.
-* [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) ⭐ 256 | 🐛 13 | 🌐 CoffeeScript | 📅 2019-04-06 - Framer module that simplifies the process of adding text to your prototypes.
+* [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) ⭐ 255 | 🐛 13 | 🌐 CoffeeScript | 📅 2019-04-06 - Framer module that simplifies the process of adding text to your prototypes.
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) ⭐ 230 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-02 - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
-* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 216 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
+* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 215 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [VRComponent](https://github.com/jonastreub/VRComponent) ⭐ 179 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-07-11 - Virtual reality component for Framer.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 174 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [lottie-framer](https://github.com/72/lottie-framer) ⭐ 162 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-01-17 - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
-* [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) ⭐ 147 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-09-15 - AudioPlayer Module for Framer.
+* [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) ⭐ 145 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-09-15 - AudioPlayer Module for Framer.
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) ⭐ 144 | 🐛 2 | 🌐 CoffeeScript | 📅 2016-05-06 - Create custom SVG shapes and animate each point individually.
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) ⭐ 116 | 🐛 3 | 🌐 CoffeeScript | 📅 2018-07-24 - Module to create symbols in Framer.
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) ⭐ 107 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-28 - Module to create scroll components with sticky stamps in Framer.
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) ⭐ 107 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-28 - Module to enable sticky headers within Framer's Scroll Components.
 * [Framer Form](https://github.com/emilwidlund/framer-form) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2019-07-12 - Give your Framer prototypes a third dimension.
-* [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) ⭐ 103 | 🐛 1 | 🌐 CoffeeScript | 📅 2016-07-13 - Module for Framer to handle device orientation events.
+* [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) ⭐ 102 | 🐛 1 | 🌐 CoffeeScript | 📅 2016-07-13 - Module for Framer to handle device orientation events.
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) ⭐ 97 | 🐛 4 | 🌐 JavaScript | 📅 2016-06-29 - Framer module to quickly create a flip card effect with two image layers.
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-18 - Module for Framer that replicates the iOS tab bar.
 * [Framer-VideoPlayer](https://github.com/stakes/Framer-VideoPlayer) ⭐ 73 | 🐛 0 | 🌐 CoffeeScript | 📅 2015-10-13 - Video player module for Framer Studio and Framer.
@@ -137,8 +137,8 @@
 * [Framer Font Loader](https://github.com/steveruizok/fontloader) ⚠️ Archived - Painlessly, reliably load local and web fonts into Framer prototypes.
 * [framer-icon](https://github.com/peteschaffner/framer-icon) ⚠️ Archived - Framer dynamically tinted icons based off of a template image.
 * [Simple Android Ripple](https://github.com/imaaronjames/Simple-Android-Ripple) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2016-05-24 - Framer module for adding touch ripple animations to any layer.
-* [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) ⭐ 28 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-04-23 - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) ⭐ 27 | 🐛 1 | 🌐 CoffeeScript | 📅 2015-09-05 - Custom Framer module that shows hotspots over clickable layers in your prototype.
+* [framer-QueryInterface](https://github.com/marckrenn/framer-QueryInterface) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-04-23 - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 * [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-14 - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
 * [framer-view-stack](https://github.com/alandickinson/framer-view-stack) ⭐ 24 | 🐛 0 | 🌐 CoffeeScript | 📅 2022-06-23 - Framer module for creating views that stack on top of each other.
 * [framer.makeGradient](https://github.com/cupofjoakim/framer.makeGradient) ⭐ 23 | 🐛 1 | 🌐 JavaScript | 📅 2015-03-26 - Module for Framer that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.
@@ -211,4 +211,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
