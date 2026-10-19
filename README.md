@@ -91,10 +91,10 @@
 ## Modules
 
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) ⭐ 515 | 🐛 13 | 🌐 JavaScript | 📅 2017-02-14 - Make prototyping for iOS fast and easy without compromising the quality or customization.
-* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 411 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
+* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 410 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) ⚠️ Archived - Collection of useful functions to make mobile prototyping with Framer easier.
-* [Input-Framer](https://github.com/ajimix/Input-Framer) ⭐ 338 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-01-01 - Framer module to easily turn your designs inputs into real inputs.
-* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) ⭐ 265 | 🐛 8 | 🌐 JavaScript | 📅 2017-10-30 - Make prototyping with Material Design fast and easy without compromising the quality or customization.
+* [Input-Framer](https://github.com/ajimix/Input-Framer) ⭐ 339 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-01-01 - Framer module to easily turn your designs inputs into real inputs.
+* [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) ⭐ 264 | 🐛 8 | 🌐 JavaScript | 📅 2017-10-30 - Make prototyping with Material Design fast and easy without compromising the quality or customization.
 * [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) ⭐ 255 | 🐛 13 | 🌐 CoffeeScript | 📅 2019-04-06 - Framer module that simplifies the process of adding text to your prototypes.
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) ⭐ 230 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-02 - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 215 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
@@ -102,19 +102,19 @@
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 174 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [lottie-framer](https://github.com/72/lottie-framer) ⭐ 162 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-01-17 - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 * [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) ⭐ 145 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-09-15 - AudioPlayer Module for Framer.
-* [Framer Path](https://github.com/vladimirshlygin/framer-path) ⭐ 144 | 🐛 2 | 🌐 CoffeeScript | 📅 2016-05-06 - Create custom SVG shapes and animate each point individually.
+* [Framer Path](https://github.com/vladimirshlygin/framer-path) ⭐ 143 | 🐛 2 | 🌐 CoffeeScript | 📅 2016-05-06 - Create custom SVG shapes and animate each point individually.
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) ⭐ 116 | 🐛 3 | 🌐 CoffeeScript | 📅 2018-07-24 - Module to create symbols in Framer.
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) ⭐ 107 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-28 - Module to create scroll components with sticky stamps in Framer.
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) ⭐ 107 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-28 - Module to enable sticky headers within Framer's Scroll Components.
 * [Framer Form](https://github.com/emilwidlund/framer-form) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2019-07-12 - Give your Framer prototypes a third dimension.
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) ⭐ 102 | 🐛 1 | 🌐 CoffeeScript | 📅 2016-07-13 - Module for Framer to handle device orientation events.
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) ⭐ 97 | 🐛 4 | 🌐 JavaScript | 📅 2016-06-29 - Framer module to quickly create a flip card effect with two image layers.
-* [tabBarModule](https://github.com/petterheterjag/tabBarModule) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-18 - Module for Framer that replicates the iOS tab bar.
+* [tabBarModule](https://github.com/petterheterjag/tabBarModule) ⭐ 90 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-18 - Module for Framer that replicates the iOS tab bar.
 * [Framer-VideoPlayer](https://github.com/stakes/Framer-VideoPlayer) ⭐ 73 | 🐛 0 | 🌐 CoffeeScript | 📅 2015-10-13 - Video player module for Framer Studio and Framer.
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) ⭐ 65 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-28 - Framer classes for managing large sets of animations.
-* [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) ⚠️ Archived - Google Fonts loader module for your Framer prototypes.
 * [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) ⭐ 62 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-16 - ShakeEvent Module for Framer.
 * [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2016-07-26 - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
+* [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) ⚠️ Archived - Google Fonts loader module for your Framer prototypes.
 * [WatchKit-Framer](https://github.com/ajimix/WatchKit-Framer) ⭐ 55 | 🐛 1 | 🌐 CoffeeScript | 📅 2015-05-28 - Apple Watch Kit module for Framer.
 * [Gridddle](https://github.com/Volorf/Gridddle) ⭐ 52 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-03-22 - Grid module for FramerJS.
 * [Framer StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) ⭐ 51 | 🐛 1 | 🌐 CoffeeScript | 📅 2017-12-27 - Module for generating accurate, customizable status bars for iOS app prototypes.
@@ -212,4 +212,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

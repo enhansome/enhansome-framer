@@ -40,7 +40,7 @@
             "open_issues": 8,
             "owner": "awt2542",
             "repo": "ViewController-for-Framer",
-            "stars": 411,
+            "stars": 410,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -82,7 +82,7 @@
             "open_issues": 0,
             "owner": "ajimix",
             "repo": "Input-Framer",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "coffeescript",
               "framer",
@@ -109,7 +109,7 @@
             "open_issues": 8,
             "owner": "k-vyn",
             "repo": "framer-material-kit",
-            "stars": 265,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -277,7 +277,7 @@
             "open_issues": 2,
             "owner": "slitrobo",
             "repo": "framer-path",
-            "stars": 144,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -424,7 +424,7 @@
             "open_issues": 0,
             "owner": "petterheterjag",
             "repo": "TabBarModule",
-            "stars": 91,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -467,27 +467,6 @@
             "owner": "isaacw",
             "repo": "framer-animation-collections",
             "stars": 65,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:55.833Z"
-        },
-        {
-          "node_type": "item",
-          "title": "framer-googlefonts",
-          "description": "Google Fonts loader module for your Framer prototypes.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Google Fonts loader for Framer.js",
-            "homepage": null,
-            "id": 35948117,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2015-07-06T15:36:02Z",
-            "open_issues": 1,
-            "owner": "peteschaffner",
-            "repo": "framer-googlefonts",
-            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -539,6 +518,27 @@
             "owner": "tjphilli",
             "repo": "Framer-ValueLayer",
             "stars": 62,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:09:55.833Z"
+        },
+        {
+          "node_type": "item",
+          "title": "framer-googlefonts",
+          "description": "Google Fonts loader module for your Framer prototypes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Google Fonts loader for Framer.js",
+            "homepage": null,
+            "id": 35948117,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2015-07-06T15:36:02Z",
+            "open_issues": 1,
+            "owner": "peteschaffner",
+            "repo": "framer-googlefonts",
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -1872,7 +1872,7 @@
             "open_issues": 12,
             "owner": "kysely",
             "repo": "framer-modules",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "framer",
               "framer-modules",
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:18:01.917Z",
+    "last_updated": "2026-10-19T20:44:28.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",
@@ -1951,7 +1951,7 @@
       "open_issues": 0,
       "owner": "podo",
       "repo": "awesome-framer",
-      "stars": 621,
+      "stars": 622,
       "topics": [
         "autocode",
         "awesome",
