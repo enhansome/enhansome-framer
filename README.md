@@ -99,7 +99,7 @@
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) ⭐ 230 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-02 - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 215 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [VRComponent](https://github.com/jonastreub/VRComponent) ⭐ 179 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-07-11 - Virtual reality component for Framer.
-* [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 174 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
+* [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 175 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [lottie-framer](https://github.com/72/lottie-framer) ⭐ 162 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-01-17 - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 * [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) ⭐ 145 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-09-15 - AudioPlayer Module for Framer.
 * [Framer Path](https://github.com/vladimirshlygin/framer-path) ⭐ 143 | 🐛 2 | 🌐 CoffeeScript | 📅 2016-05-06 - Create custom SVG shapes and animate each point individually.
@@ -212,4 +212,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

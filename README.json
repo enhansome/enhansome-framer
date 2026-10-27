@@ -214,7 +214,7 @@
             "open_issues": 4,
             "owner": "joshpuckett",
             "repo": "FramerModules",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:46:14.426Z",
+    "last_updated": "2026-10-27T20:15:44.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",
@@ -1948,7 +1948,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-06T12:25:48Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "podo",
       "repo": "awesome-framer",
       "stars": 623,
