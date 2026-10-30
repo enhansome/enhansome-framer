@@ -91,13 +91,13 @@
 ## Modules
 
 * [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) ⭐ 515 | 🐛 13 | 🌐 JavaScript | 📅 2017-02-14 - Make prototyping for iOS fast and easy without compromising the quality or customization.
-* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 410 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
+* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 409 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) ⚠️ Archived - Collection of useful functions to make mobile prototyping with Framer easier.
 * [Input-Framer](https://github.com/ajimix/Input-Framer) ⭐ 339 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-01-01 - Framer module to easily turn your designs inputs into real inputs.
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) ⭐ 264 | 🐛 8 | 🌐 JavaScript | 📅 2017-10-30 - Make prototyping with Material Design fast and easy without compromising the quality or customization.
 * [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer) ⭐ 255 | 🐛 13 | 🌐 CoffeeScript | 📅 2019-04-06 - Framer module that simplifies the process of adding text to your prototypes.
-* [framer-Firebase](https://github.com/marckrenn/framer-Firebase) ⭐ 230 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-02 - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
-* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 215 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
+* [framer-Firebase](https://github.com/marckrenn/framer-Firebase) ⭐ 229 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-02 - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
+* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 214 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [VRComponent](https://github.com/jonastreub/VRComponent) ⭐ 179 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-07-11 - Virtual reality component for Framer.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 175 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [lottie-framer](https://github.com/72/lottie-framer) ⭐ 162 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-01-17 - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
@@ -212,4 +212,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

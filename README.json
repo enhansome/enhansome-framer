@@ -40,7 +40,7 @@
             "open_issues": 8,
             "owner": "awt2542",
             "repo": "ViewController-for-Framer",
-            "stars": 410,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "marckrenn",
             "repo": "framer-Firebase",
-            "stars": 230,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -172,7 +172,7 @@
             "open_issues": 3,
             "owner": "chriscamargo",
             "repo": "framer-viewNavigationController",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:41:09.320Z",
+    "last_updated": "2026-10-30T20:11:52.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",
