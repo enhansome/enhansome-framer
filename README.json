@@ -1902,7 +1902,7 @@
             "open_issues": 0,
             "owner": "mattsjohnston",
             "repo": "Stitch",
-            "stars": 143,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:55.833Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:41:01.595Z",
+    "last_updated": "2026-11-08T19:59:48.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",

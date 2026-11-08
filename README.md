@@ -193,7 +193,7 @@
 
 * [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) ⭐ 472 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-24 - Library of Framer snippets to help speed up workflow.
 * [framer-modules](https://github.com/kysely/framer-modules) ⚠️ Archived - Discover, install and save your favorite modules at one place.
-* [Stitch](https://github.com/mattsjohnston/stitch) ⭐ 143 | 🐛 0 | 🌐 JavaScript | 📅 2015-11-12 - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
+* [Stitch](https://github.com/mattsjohnston/stitch) ⭐ 142 | 🐛 0 | 🌐 JavaScript | 📅 2015-11-12 - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-22 - Use Framer Library in your preferred editor and environment.
 * [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
 * [Voyage](https://framer.com/voyage/) - A free travel-themed UI kit that’s fully interactive and made for Framer.
@@ -212,4 +212,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
