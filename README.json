@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:19:51.320Z",
+    "last_updated": "2026-11-24T02:36:49.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Framer prototyping tool",
@@ -1948,10 +1948,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-06T12:25:48Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "podo",
       "repo": "awesome-framer",
-      "stars": 623,
+      "stars": 622,
       "topics": [
         "autocode",
         "awesome",
