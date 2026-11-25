@@ -90,8 +90,8 @@
 
 ## Modules
 
-* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) ⭐ 514 | 🐛 13 | 🌐 JavaScript | 📅 2017-02-14 - Make prototyping for iOS fast and easy without compromising the quality or customization.
-* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 409 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
+* [iOS Kit for FramerJS](https://github.com/k-vyn/framer-ios-kit) ⭐ 513 | 🐛 13 | 🌐 JavaScript | 📅 2017-02-14 - Make prototyping for iOS fast and easy without compromising the quality or customization.
+* [ViewController-for-Framer](https://github.com/awt2542/ViewController-for-Framer) ⭐ 408 | 🐛 8 | 🌐 CoffeeScript | 📅 2019-07-14 - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) ⚠️ Archived - Collection of useful functions to make mobile prototyping with Framer easier.
 * [Input-Framer](https://github.com/ajimix/Input-Framer) ⭐ 339 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-01-01 - Framer module to easily turn your designs inputs into real inputs.
 * [Material Kit for FramerJS](https://github.com/k-vyn/framer-material-kit) ⭐ 264 | 🐛 8 | 🌐 JavaScript | 📅 2017-10-30 - Make prototyping with Material Design fast and easy without compromising the quality or customization.
@@ -99,10 +99,10 @@
 * [framer-Firebase](https://github.com/marckrenn/framer-Firebase) ⭐ 229 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-02 - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
 * [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) ⭐ 214 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-10-27 - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [VRComponent](https://github.com/jonastreub/VRComponent) ⭐ 179 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-07-11 - Virtual reality component for Framer.
-* [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 175 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
+* [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) ⭐ 174 | 🐛 4 | 🌐 CoffeeScript | 📅 2018-10-29 - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [lottie-framer](https://github.com/72/lottie-framer) ⭐ 162 | 🐛 1 | 🌐 CoffeeScript | 📅 2018-01-17 - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 * [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) ⭐ 145 | 🐛 3 | 🌐 CoffeeScript | 📅 2016-09-15 - AudioPlayer Module for Framer.
-* [Framer Path](https://github.com/vladimirshlygin/framer-path) ⭐ 143 | 🐛 2 | 🌐 CoffeeScript | 📅 2016-05-06 - Create custom SVG shapes and animate each point individually.
+* [Framer Path](https://github.com/vladimirshlygin/framer-path) ⭐ 142 | 🐛 2 | 🌐 CoffeeScript | 📅 2016-05-06 - Create custom SVG shapes and animate each point individually.
 * [framer-Symbols](https://github.com/der-lukas/framer-Symbols) ⭐ 116 | 🐛 3 | 🌐 CoffeeScript | 📅 2018-07-24 - Module to create symbols in Framer.
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) ⭐ 107 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-28 - Module to create scroll components with sticky stamps in Framer.
 * [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) ⭐ 107 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-28 - Module to enable sticky headers within Framer's Scroll Components.
@@ -115,7 +115,7 @@
 * [Framer-Module-ShakeEvent](https://github.com/RayPS/Framer-Module-ShakeEvent) ⭐ 62 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-08-16 - ShakeEvent Module for Framer.
 * [Framer-ValueLayer](https://github.com/tjphilli/Framer-ValueLayer) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2016-07-26 - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
 * [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) ⚠️ Archived - Google Fonts loader module for your Framer prototypes.
-* [WatchKit-Framer](https://github.com/ajimix/WatchKit-Framer) ⭐ 55 | 🐛 1 | 🌐 CoffeeScript | 📅 2015-05-28 - Apple Watch Kit module for Framer.
+* [WatchKit-Framer](https://github.com/ajimix/WatchKit-Framer) ⭐ 54 | 🐛 1 | 🌐 CoffeeScript | 📅 2015-05-28 - Apple Watch Kit module for Framer.
 * [Gridddle](https://github.com/Volorf/Gridddle) ⭐ 52 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-03-22 - Grid module for FramerJS.
 * [Framer StatusBarLayer](https://github.com/bpxl-labs/StatusBarLayer) ⭐ 51 | 🐛 1 | 🌐 CoffeeScript | 📅 2017-12-27 - Module for generating accurate, customizable status bars for iOS app prototypes.
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) ⭐ 47 | 🐛 1 | 🌐 CoffeeScript | 📅 2022-08-22 — Module that allows you to design audio interfaces in Framer.
@@ -127,7 +127,7 @@
 * [framer-equally-rotate-images](https://github.com/aboutjax/framer-equally-rotate-images) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2015-11-13 - Give this module an array of images, and it will rotate them equally around in a circular path.
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) ⭐ 34 | 🐛 0 | 🌐 CoffeeScript | 📅 2019-07-14 - Framer module that makes it easier to find layers in your project.
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) ⭐ 33 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-10-18 - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
-* [Framer-Module-UISound](https://github.com/RayPS/Framer-Module-UISound/) ⭐ 32 | 🐛 1 | 🌐 CoffeeScript | 📅 2017-08-16 - UISound Module for Framer.
+* [Framer-Module-UISound](https://github.com/RayPS/Framer-Module-UISound/) ⭐ 31 | 🐛 1 | 🌐 CoffeeScript | 📅 2017-08-16 - UISound Module for Framer.
 * [ios-keyboard-for-framer](https://github.com/supsupmo/ios-keyboard-for-framer) ⭐ 31 | 🐛 0 | 🌐 CoffeeScript | 📅 2015-09-04 - iOS Keyboard module for Framer.
 * [framer-moreutils](https://github.com/steveruizok/framer-moreutils) ⚠️ Archived - Expand Utils with some handy helper functions.
 * [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) ⭐ 31 | 🐛 3 | 🌐 CoffeeScript | 📅 2018-04-04 - Module for converting your designs in design mode into full scalable classes in code, without a single line of code!.
@@ -144,7 +144,7 @@
 * [framer.makeGradient](https://github.com/cupofjoakim/framer.makeGradient) ⭐ 23 | 🐛 1 | 🌐 JavaScript | 📅 2015-03-26 - Module for Framer that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.
 * [framer-webview](https://github.com/peteschaffner/framer-webview) ⚠️ Archived - Web view module for Framer.
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) ⭐ 23 | 🐛 2 | 🌐 CoffeeScript | 📅 2017-10-18 - Module for simulating the grid focus behavior found on Apple TV and Roku.
-* [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-03-29 - Framer module that mimics an iOS notification.
+* [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2015-03-29 - Framer module that mimics an iOS notification.
 * [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) ⚠️ Archived - Ajax module for Framer.
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) ⭐ 21 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-07-13 - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients.
 * [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) ⭐ 20 | 🐛 3 | 🌐 CoffeeScript | 📅 2017-11-02 - Module for creating powerful Mapbox maps in your prototypes.
@@ -191,7 +191,7 @@
 
 ## Other
 
-* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) ⭐ 472 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-24 - Library of Framer snippets to help speed up workflow.
+* [Framer Snippets](https://github.com/robotdestroy/Framer-Snippets-Library) ⭐ 471 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-05-24 - Library of Framer snippets to help speed up workflow.
 * [framer-modules](https://github.com/kysely/framer-modules) ⚠️ Archived - Discover, install and save your favorite modules at one place.
 * [Stitch](https://github.com/mattsjohnston/stitch) ⭐ 142 | 🐛 0 | 🌐 JavaScript | 📅 2015-11-12 - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 * [framer-bootstrap](https://github.com/alexchantastic/framer-bootstrap) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-22 - Use Framer Library in your preferred editor and environment.
@@ -212,4 +212,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
